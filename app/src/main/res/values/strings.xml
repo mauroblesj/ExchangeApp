@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ExchangeApp</string>
+    <string name="message_updating">Updating...</string>
+    <string name="base_country">Base Country:</string>
+    <string-array name="exchange_array">
+        <item>EUR</item>
+        <item>NZD</item>
+        <item>CAD</item>
+        <item>MXN</item>
+        <item>AUD</item>
+        <item>CNY</item>
+        <item>PHP</item>
+        <item>GBP</item>
+        <item>CZK</item>
+        <item>USD</item>
+        <item>SEK</item>
+        <item>NOK</item>
+        <item>TRY</item>
+        <item>IDR</item>
+        <item>ZAR</item>
+        <item>MYR</item>
+        <item>HKD</item>
+        <item>HUF</item>
+        <item>ISK</item>
+        <item>HRK</item>
+        <item>JPY</item>
+        <item>BGN</item>
+        <item>SGD</item>
+        <item>RUB</item>
+        <item>RON</item>
+        <item>CHF</item>
+        <item>DKK</item>
+        <item>INR</item>
+        <item>KRW</item>
+        <item>THB</item>
+        <item>BRL</item>
+        <item>PLN</item>
+        <item>ILS</item>
+    </string-array>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_countries">Select one or more countries.</string>
+    <string name="done">Done</string>
+    <string name="channel_name">exchange</string>
+    <string name="missing_conection">You don\'t have internet, make sure you\'re connected to a network.</string>
+    <string name="missing_connection_title">Missing connection</string>
+</resources>
